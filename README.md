@@ -45,7 +45,10 @@
 - Clone or download this repository
 - To work with the playground, open Playgrounds/Tracery.playground
 - The project builds `iOS` and `macOS` framework targets, which can be linked to your projects
- 
+
+Tracery can also be installed via [CocoaPods](https://cocoapods.org). Add the following to your Podfile and run `pod install`:
+
+`pod 'Tracery'`
 
 [top](#contents)
 ****
