@@ -12,11 +12,11 @@ Pod::Spec.new do |s|
     The content generation in Tracery works based on an input set of rules. The rules determine how content should be generated.
                    DESC
 
-  s.homepage     = "https://github.com/BenziAhamed/Tracery"
+  s.homepage     = "https://github.com/lazerwalker/Tracery"
   s.license      = { :type => "MIT", :file => "LICENSE" }
 
   s.author    = "Benzi Ahamed"
 
-  s.source       = { :git => "https://github.com/BenziAhamed/Tracery.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/lazerwalker/Tracery.git", :tag => "#{s.version}" }
   s.source_files  = "Common"
 end
